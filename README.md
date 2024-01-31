@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+QA Engineer and aspiring Dev studying Computer Science at TUD
+
 <!--
 **J-Etienne1/J-Etienne1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
