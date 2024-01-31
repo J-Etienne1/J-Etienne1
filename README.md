@@ -3,7 +3,13 @@
 QA Engineer and aspiring Dev studying Computer Science at TUD
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<details>
+  <summary>Skills</summary>
+ 
+  <img src='[https://skillicons.dev/icons?i=html,css,js,python,php,solidity,vite,react,next,tailwind,nodejs,express,flask,selenium,mongodb,firebase,aws,linux,figma,git](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,py,django,github,git,vscode,mongodb,mysql,php,postman)' />
+</details>
+
+
 
 <!--
 **J-Etienne1/J-Etienne1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
