@@ -3,11 +3,10 @@
 QA Engineer and aspiring Dev studying Computer Science at TUD
 
 
-<details>
+
   <summary>Skills</summary>
  
   <img src='https://skillicons.dev/icons?i=html,css,js,react,python,django,php,mongodb,git' />
-</details>
 
 
 
