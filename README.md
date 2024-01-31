@@ -6,7 +6,7 @@ QA Engineer and aspiring Dev studying Computer Science at TUD
 <details>
   <summary>Skills</summary>
  
-  <img src='[https://skillicons.dev/icons?i=html,css,js,python,php,solidity,vite,react,next,tailwind,nodejs,express,flask,selenium,mongodb,firebase,aws,linux,figma,git](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,py,django,github,git,vscode,mongodb,mysql,php,postman)' />
+  <img src='https://skillicons.dev/icons?i=html,css,js,python,php,solidity,vite,react,next,tailwind,nodejs,express,flask,selenium,mongodb,firebase,aws,linux,figma,git' />
 </details>
 
 
