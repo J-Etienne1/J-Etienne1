@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-QA Engineer and aspiring Dev studying Computer Science at TUD
+QA Engineer and aspiring Software Engineer studying Computer Science at TUD
 
 
 
