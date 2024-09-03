@@ -6,7 +6,7 @@
 
   <summary>Skills</summary>
  
-  <img src='https://skillicons.dev/icons?i=html,css,js,cypress,react,django,python,php,mongodb,mysql,postgres,git,github,postman,vscode' />
+  <img src='https://skillicons.dev/icons?i=html,css,js,cypress,react,django,python,php,mongodb,mysql,postgres,git,github,postman,vscode,postman' />
 
 
 
